@@ -1,5 +1,5 @@
 com.mobiletools.systemhelper  
- com.miui.wmsvc
+com.miui.wmsvc
 com.miui.vsimcore
 com.miui.voicetrigger
 com.miui.voiceassist
@@ -96,6 +96,7 @@ com.miui.yellowpage
 com.miui.android.fashiongallery
 com.android.providers.partnerbookmarks
 com.mipay.wallet.id
+com.mipay.wallet.in
 com.xiaomi.mipicks
 com.bsp.catchlog
 com.xiaomi.glgm
