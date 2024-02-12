@@ -104,6 +104,7 @@ adb shell pm uninstall --user 0 com.miui.yellowpage
 adb shell pm uninstall --user 0 com.miui.android.fashiongallery
 adb shell pm uninstall --user 0 com.android.providers.partnerbookmarks
 adb shell pm uninstall --user 0 com.mipay.wallet.id
+adb shell pm uninstall --user 0 com.mipay.wallet.in
 adb shell pm uninstall --user 0 com.xiaomi.mipicks
 adb shell pm uninstall --user 0 com.bsp.catchlog
 adb shell pm uninstall --user 0 com.xiaomi.glgm
